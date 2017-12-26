@@ -7,7 +7,7 @@ import com.winit.generator.task.EntityTask;
 import com.winit.generator.task.InitTask;
 import com.winit.generator.task.MapperTask;
 import com.winit.generator.task.VoTask;
-
+asdasdasdsadsadsadadasd
 /**
  * 
  * 程序入口
